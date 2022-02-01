@@ -15,7 +15,7 @@ app.secret_key = 'NicoPoiDuang~'
 app.permanent_session_lifetime = datetime.timedelta(days=30)
 
 # the flag
-flag = 'flag{}'
+flag = 'flag{shelling_cute}'
 
 utc_tz = pytz.timezone('UTC')
 
