@@ -8,7 +8,7 @@ Shelling 最近迷上了 Wordle，这是一种字迷游戏，玩家需要在六�
 > 
 > I'm glad to invite you to take part in [The Wordle Challenge](http://101.43.189.73:2333).
 > 
-> The challenge will start on 2022.02.01 00:00 and end on 2022.02.01 23:59 (UTC+8)
+> The challenge will start on 2022.02.01 00:00 and end on 2022.02.01 23:50 (UTC+8)
 > 
 > Participants need to guess 300 words in a row. The first 30 participants who complete the challenge will receive 1 electronic red envelope as rewards 
 > 
