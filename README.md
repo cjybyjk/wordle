@@ -1,6 +1,6 @@
 # Shelling 的 Wordle 挑战
 
-Shelling 最近迷上了 Wordle，这是一种字迷游戏，玩家需要在六次尝试内猜出一个五个字母的单词。
+Shelling 最近迷上了 Wordle，这是一种字谜游戏，玩家需要在六次尝试内猜出一个五个字母的单词。
 
 一天，Shelling 收到了一封邮件：
 
